@@ -37,6 +37,7 @@ public class SampleProgramme {
 		sampleProgramme.floatingPoint();
 		sampleProgramme.character();
 		sampleProgramme.boo();
+		System.out.println("*****");
 	}
 	
 
